@@ -1,14 +1,11 @@
 # Hello, I'm Gajan
 <a href="https://www.linkedin.com/in/gajan-mogan"><img src="https://img.shields.io/badge/-LinkedIn-0072b1?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 
-[Brief Introduction - Remove this afterwards]
-
-I am a recent graduate with a profound interest in technology and a dedication to solving complex problems.
+I am an experienced professional transitioning to the IT field with a profound interest in cybersecurity. With a background in financial services and a certification in IT support from Google, I am dedicated to solving complex problems and enhancing system efficiency and security.
 
 ## Objective
-[Provide Objective - Remove this afterwards]]
 
-My journey in computer science has led me to develop a passion for cybersecurity, and I am now eager to transition into this field, specifically aiming to join a Security Operations Center (SOC) as a Tier 1 Analyst.
+My objective is to leverage my analytical skills and technical knowledge in cybersecurity to contribute effectively to a Security Operations Center (SOC). I am particularly focused on roles that involve SIEM implementation, network traffic monitoring, security automation, and incident response.
 
 ## Skills
 [Provide skills and associated project. Make sure to hyperlink the project - Remove this afterwards]]
