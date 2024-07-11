@@ -1,7 +1,7 @@
 # Hello, I'm Gajan
 <a href="https://www.linkedin.com/in/gajan-mogan"><img src="https://img.shields.io/badge/-LinkedIn-0072b1?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 
-I am an experienced professional transitioning to the IT field with a profound interest in cybersecurity. With a background in financial services and a certification in IT support from Google, I am dedicated to solving complex problems and enhancing system efficiency and security.
+I am an experienced professional with a strong background in financial services and a passion for technology, currently transitioning into the IT field. My journey has been marked by a dedication to solving complex problems and enhancing system efficiency and security. I hold a certification in IT support from Google and am eager to apply my analytical skills and technical knowledge in the field of cybersecurity. My goal is to join a Security Operations Center (SOC) as a Tier 1 Analyst, where I can contribute to protecting and securing information systems.
 
 ## Objective
 
