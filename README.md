@@ -20,52 +20,6 @@ Below are some of the key skills I have developed, along with associated project
 | Case Management with TheHive              | [SOC Automation Lab](#)   |
 | Scripting and Automation for Threat Mitigation | [SOC Automation Lab](#)   |
 
-### Tools
-
-In my projects, I have used various tools across different categories, including:
-
-#### Network
-- Wireshark
-- Tcpdump
-
-#### Endpoint
-- Sysinternals Suite
-- OSQuery
-
-#### SIEM
-- Splunk
-- Elastic Stack
-
-### Certifications
-
-- Google IT Support Professional Certificate (2024)
-- Canadian Investment Funds Course (2023)
-
-### Projects
-
-Here are some of the projects I have worked on:
-
-- **Detection Lab:** A project focused on SIEM implementation and network traffic monitoring.
-- **SOC Automation Project:** This project involves security automation using Shuffle SOAR, incident response planning and execution, and case management with TheHive.
-
-Feel free to explore the repositories to see the detailed implementations and outcomes of these projects.
-
----
-
-© 2024 Gajan Mogan. All rights reserved.
-
-## Skills
-[Provide skills and associated project. Make sure to hyperlink the project - Remove this afterwards]]
-
-| Skill                                         | Associated Project         |
-|-----------------------------------------------|----------------------------|
-| SIEM Implementation and Log Analysis          | <a href="https://google.com">Detection Lab</a>|
-| Network Traffic Monitoring and Attack Detection | <a href="https://google.com">Detection Lab</a>|
-| Security Automation with Shuffle SOAR         | SOC Automation Lab|
-| Incident Response Planning and Execution      | SOC Automation Lab|
-| Case Management with TheHive                  | SOC Automation Lab|
-| Scripting and Automation for Threat Mitigation | SOC Automation Lab|
-
 ## Tools
 [Provide tools and break them down into categories. Use ChatGPT to help create the link - Remove this afterwards]]
 
