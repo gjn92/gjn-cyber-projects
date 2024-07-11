@@ -7,7 +7,7 @@ I am an experienced professional with a strong background in financial services 
 
 I aim to leverage my expertise in cybersecurity to contribute effectively to a Security Operations Center (SOC). My focus areas include SIEM implementation, network traffic monitoring, security automation, and incident response. I am committed to continuous learning and professional development to stay ahead in this rapidly evolving field.
 
-### Skills
+## Skills
 
 Below are some of the key skills I have developed, along with associated projects that demonstrate my capabilities:
 
